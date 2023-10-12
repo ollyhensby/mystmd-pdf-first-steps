@@ -29,9 +29,10 @@ npm install -g mystmd
 
 ## Build
 
-Run
+To build 01-simple.md into PDF, run
 
 ```bash
-myst build
+myst build 01-simple.md
 ```
 
+To see the PDF, got to `./_build/exports`.
